@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[979],{97868:function(s){s.exports=JSON.parse('{"sourceUrl":"https://github.com/Shadows-In-The-West/Game/blob/master","baseUrl":"/Game/","classOrder":[],"apiCategories":[]}')}}]);
